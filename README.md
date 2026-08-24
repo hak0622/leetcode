@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hak0622/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hak0622/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/hak0622/leetcode/tree/master/0067-add-binary) |
 ## String Matching
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/hak0622/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hak0622/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/hak0622/leetcode/tree/master/0070-climbing-stairs) |
 ## Binary Search
@@ -54,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/hak0622/leetcode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/hak0622/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/hak0622/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
