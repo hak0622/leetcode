@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/hak0622/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/hak0622/leetcode/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/hak0622/leetcode/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hak0622/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hak0622/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
