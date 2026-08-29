@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/hak0622/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/hak0622/leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/hak0622/leetcode/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hak0622/leetcode/tree/master/0100-same-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/hak0622/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
