@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/hak0622/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/hak0622/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/hak0622/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/hak0622/leetcode/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/hak0622/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/hak0622/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/hak0622/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/hak0622/leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hak0622/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hak0622/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hak0622/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/hak0622/leetcode/tree/master/0389-find-the-difference) |
 ## Tree
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hak0622/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hak0622/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hak0622/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/hak0622/leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
