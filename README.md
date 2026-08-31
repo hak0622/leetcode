@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hak0622/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hak0622/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/hak0622/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/hak0622/leetcode/tree/master/0066-plus-one) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hak0622/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/hak0622/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/hak0622/leetcode/tree/master/0268-missing-number) |
 ## Counting
