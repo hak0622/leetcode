@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hak0622/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/hak0622/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/hak0622/leetcode/tree/master/0455-assign-cookies) |
+| [0566-reshape-the-matrix](https://github.com/hak0622/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/hak0622/leetcode/tree/master/0605-can-place-flowers) |
 | [0977-squares-of-a-sorted-array](https://github.com/hak0622/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/hak0622/leetcode/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/hak0622/leetcode/tree/master/0566-reshape-the-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/hak0622/leetcode/tree/master/0455-assign-cookies) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/hak0622/leetcode/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
