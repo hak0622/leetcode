@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/hak0622/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1572-matrix-diagonal-sum](https://github.com/hak0622/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/hak0622/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/hak0622/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/hak0622/leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/hak0622/leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/hak0622/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/hak0622/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/hak0622/leetcode/tree/master/0455-assign-cookies) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/hak0622/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Matrix
 |  |
 | ------- |
