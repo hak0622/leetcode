@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/hak0622/leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/hak0622/leetcode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/hak0622/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/hak0622/leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/hak0622/leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/hak0622/leetcode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/hak0622/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hak0622/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/hak0622/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/hak0622/leetcode/tree/master/0455-assign-cookies) |
+| [0832-flipping-an-image](https://github.com/hak0622/leetcode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/hak0622/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -127,11 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/hak0622/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/hak0622/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/hak0622/leetcode/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/hak0622/leetcode/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/hak0622/leetcode/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/hak0622/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/hak0622/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/hak0622/leetcode/tree/master/0867-transpose-matrix) |
 ## Linked List
 |  |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/hak0622/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/hak0622/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/hak0622/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/hak0622/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/hak0622/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/hak0622/leetcode/tree/master/1672-richest-customer-wealth) |
