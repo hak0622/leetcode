@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/hak0622/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/hak0622/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/hak0622/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2706-buy-two-chocolates](https://github.com/hak0622/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/hak0622/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/hak0622/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/hak0622/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2706-buy-two-chocolates](https://github.com/hak0622/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Tree
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/hak0622/leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/hak0622/leetcode/tree/master/0860-lemonade-change) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/hak0622/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2706-buy-two-chocolates](https://github.com/hak0622/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Quicksort
 |  |
 | ------- |
