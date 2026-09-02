@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/hak0622/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0860-lemonade-change](https://github.com/hak0622/leetcode/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/hak0622/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/hak0622/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1572-matrix-diagonal-sum](https://github.com/hak0622/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/hak0622/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hak0622/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/hak0622/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/hak0622/leetcode/tree/master/0389-find-the-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/hak0622/leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
