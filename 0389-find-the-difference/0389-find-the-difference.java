@@ -14,11 +14,9 @@ class Solution {
             map.put(c, map.getOrDefault(c,0)-1);
         }
 
-        for(int i=0; i<t.length(); i++){
-            char c = t.charAt(i);
-            if(map.get(c) == -1) return c;
+        for(char k : map.keySet()){
+            if(map.get(k) < 0) return k;
         }
-
-        return ' ';
+        return 'a';
     }
 }
