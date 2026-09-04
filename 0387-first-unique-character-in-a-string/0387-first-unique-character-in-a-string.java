@@ -1,20 +1,19 @@
-import java.util.*;
-
 class Solution {
     public int firstUniqChar(String s) {
-        HashMap<Character, Integer>map = new HashMap<>();
-
         for(int i=0; i<s.length(); i++){
-            char c= s.charAt(i);
-            map.put(c, map.getOrDefault(c,0)+1);
-        }
+            boolean check = true;
 
-        for(int i=0; i<s.length(); i++){
-            char c = s.charAt(i);
+            for(int j=0; j<s.length(); j++){
+                if(i == j) continue;
 
-            if(map.get(c) == 1) return i;
+                if(s.charAt(i) == s.charAt(j)){
+                    check = false;
+                    break;
+                }
+            }
+            
+            if(check) return i;
         }
-        
         return -1;
     }
 }
