@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public boolean wordPattern(String pattern, String s) {
         HashMap<Character,String>map = new HashMap<>();
@@ -11,13 +9,9 @@ class Solution {
             char c = pattern.charAt(i);
 
             if(map.containsKey(c)){
-                if(!map.get(c).equals(arr[i])){
-                    return false;
-                }
+                if(!map.get(c).equals(arr[i])) return false;
             }else{
-                if(map.containsValue(arr[i])){
-                    return false;
-                }
+                if(map.containsValue(arr[i])) return false;
                 map.put(c, arr[i]);
             }
         }
