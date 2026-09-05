@@ -3,13 +3,11 @@ class Solution {
     int[]dy = {0,0,-1,1};
 
     public int orangesRotting(int[][] grid) {
-        int n = grid.length; 
+        int n = grid.length;
         int m = grid[0].length;
-
-        Queue<int[]>q = new LinkedList<>();
-
         int fresh = 0;
-        int time = 0;
+        int answer = 0;
+        Queue<int[]>q = new LinkedList<>();
 
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
@@ -30,22 +28,21 @@ class Solution {
 
                 int x = cur[0];
                 int y = cur[1];
-
+                
                 for(int d=0; d<4; d++){
                     int nx = x + dx[d];
                     int ny = y + dy[d];
-                    if(nx >= 0 && nx < n && ny >= 0 && ny <m && grid[nx][ny] == 1){
+                    
+                    if(nx >= 0 && nx < n && ny >= 0 && ny < m && grid[nx][ny] == 1){
                         grid[nx][ny] = 2;
                         fresh--;
                         q.add(new int[]{nx,ny});
                     }
                 }
             }
-            time++;
+            answer++;
         }
 
-        if(fresh > 0) return -1;
-
-        return time;
+        return fresh > 0 ? -1 : answer;
     }
 }
