@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/hak0622/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hak0622/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/hak0622/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/hak0622/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/hak0622/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/hak0622/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hak0622/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hak0622/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/hak0622/leetcode/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/hak0622/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/hak0622/leetcode/tree/master/0832-flipping-an-image) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hak0622/leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/hak0622/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/hak0622/leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/hak0622/leetcode/tree/master/0766-toeplitz-matrix) |
