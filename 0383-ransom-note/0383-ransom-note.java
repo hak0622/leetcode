@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
         HashMap<Character,Integer>map = new HashMap<>();
@@ -11,6 +9,7 @@ class Solution {
 
         for(int i=0; i<magazine.length(); i++){
             char c = magazine.charAt(i);
+
             if(map.containsKey(c)){
                 map.put(c, map.get(c)-1);
             }
