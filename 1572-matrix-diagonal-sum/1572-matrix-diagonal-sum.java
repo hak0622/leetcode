@@ -9,6 +9,6 @@ class Solution {
                 sum += mat[i][mat.length - 1 - i];
             }
         }
-        return sum;        
+        return sum;
     }
 }
