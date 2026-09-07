@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hak0622/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/hak0622/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hak0622/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/hak0622/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/hak0622/leetcode/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/hak0622/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/hak0622/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hak0622/leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/hak0622/leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/hak0622/leetcode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/hak0622/leetcode/tree/master/0832-flipping-an-image) |
 ## Simulation
