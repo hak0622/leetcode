@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/hak0622/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hak0622/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/hak0622/leetcode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/hak0622/leetcode/tree/master/0415-add-strings) |
 | [1002-find-common-characters](https://github.com/hak0622/leetcode/tree/master/1002-find-common-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hak0622/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String Matching
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/hak0622/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/hak0622/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/hak0622/leetcode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/hak0622/leetcode/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/hak0622/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/hak0622/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/hak0622/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/hak0622/leetcode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/hak0622/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/hak0622/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/hak0622/leetcode/tree/master/0867-transpose-matrix) |
