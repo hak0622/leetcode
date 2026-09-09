@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hak0622/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/hak0622/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/hak0622/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/hak0622/leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/hak0622/leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/hak0622/leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/hak0622/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hak0622/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/hak0622/leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/hak0622/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/hak0622/leetcode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/hak0622/leetcode/tree/master/0832-flipping-an-image) |
 ## Simulation
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/hak0622/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/hak0622/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/hak0622/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/hak0622/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/hak0622/leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
