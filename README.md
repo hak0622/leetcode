@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/hak0622/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/hak0622/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/hak0622/leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/hak0622/leetcode/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/hak0622/leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/hak0622/leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hak0622/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/hak0622/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/hak0622/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/hak0622/leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
