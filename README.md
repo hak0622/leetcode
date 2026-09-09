@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/hak0622/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hak0622/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/hak0622/leetcode/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/hak0622/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/hak0622/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hak0622/leetcode/tree/master/0415-add-strings) |
 | [1002-find-common-characters](https://github.com/hak0622/leetcode/tree/master/1002-find-common-characters) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/hak0622/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hak0622/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hak0622/leetcode/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/hak0622/leetcode/tree/master/0409-longest-palindrome) |
 | [1002-find-common-characters](https://github.com/hak0622/leetcode/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/hak0622/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hak0622/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/hak0622/leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/hak0622/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/hak0622/leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/hak0622/leetcode/tree/master/0860-lemonade-change) |
