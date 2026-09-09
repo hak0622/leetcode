@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/hak0622/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/hak0622/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/hak0622/leetcode/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/hak0622/leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/hak0622/leetcode/tree/master/0476-number-complement) |
 | [0832-flipping-an-image](https://github.com/hak0622/leetcode/tree/master/0832-flipping-an-image) |
 ## Simulation
