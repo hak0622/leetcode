@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/hak0622/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hak0622/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/hak0622/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/hak0622/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hak0622/leetcode/tree/master/0415-add-strings) |
 | [1002-find-common-characters](https://github.com/hak0622/leetcode/tree/master/1002-find-common-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hak0622/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/hak0622/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/hak0622/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hak0622/leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/hak0622/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hak0622/leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/hak0622/leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/hak0622/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/hak0622/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/hak0622/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/hak0622/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hak0622/leetcode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/hak0622/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/hak0622/leetcode/tree/master/0832-flipping-an-image) |
