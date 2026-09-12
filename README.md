@@ -87,20 +87,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/hak0622/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/hak0622/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hak0622/leetcode/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/hak0622/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1002-find-common-characters](https://github.com/hak0622/leetcode/tree/master/1002-find-common-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hak0622/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hak0622/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/hak0622/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hak0622/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/hak0622/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hak0622/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/hak0622/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
