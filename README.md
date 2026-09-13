@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/hak0622/leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/hak0622/leetcode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/hak0622/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/hak0622/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/hak0622/leetcode/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/hak0622/leetcode/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/hak0622/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/hak0622/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/hak0622/leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/hak0622/leetcode/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/hak0622/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 ## Binary Search
 |  |
 | ------- |
