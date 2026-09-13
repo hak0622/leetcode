@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/hak0622/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hak0622/leetcode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/hak0622/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0551-student-attendance-record-i](https://github.com/hak0622/leetcode/tree/master/0551-student-attendance-record-i) |
 | [1002-find-common-characters](https://github.com/hak0622/leetcode/tree/master/1002-find-common-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hak0622/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String Matching
