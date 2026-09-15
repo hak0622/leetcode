@@ -1,12 +1,10 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         for(int i=0; i<nums.length; i++){
-            int sum = target - nums[i];
+            int answer = target - nums[i];
 
             for(int j=i+1; j<nums.length; j++){
-                if(sum == nums[j]){
-                    return new int[]{i,j};
-                }
+                if(answer == nums[j]) return new int[]{i,j};
             }
         }
         return new int[]{};
