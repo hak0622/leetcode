@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/hak0622/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hak0622/leetcode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/hak0622/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/hak0622/leetcode/tree/master/0482-license-key-formatting) |
 | [0551-student-attendance-record-i](https://github.com/hak0622/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0819-most-common-word](https://github.com/hak0622/leetcode/tree/master/0819-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/hak0622/leetcode/tree/master/0917-reverse-only-letters) |
