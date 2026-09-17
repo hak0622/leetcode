@@ -1,23 +1,23 @@
-import java.util.*;
-
 class Solution {
     public boolean lemonadeChange(int[] bills) {
-        Map<Integer, Integer>map = new HashMap<>();
+        int five = 0;
+        int ten = 0;
 
         for(int i=0; i<bills.length; i++){
             if(bills[i] == 5){
-                map.put(5, map.getOrDefault(5, 0) + 1);
+                five++;
             }else if(bills[i] == 10){
-                if(map.getOrDefault(5, 0) == 0) return false;
-                
-                map.put(10, map.getOrDefault(10, 0) + 1);
-                map.put(5, map.get(5) - 1);
-            }else if(bills[i] == 20){
-                if(map.getOrDefault(10,0) > 0 && map.getOrDefault(5, 0) > 0){
-                    map.put(10, map.get(10) - 1);
-                    map.put(5, map.get(5) - 1);
-                }else if(map.getOrDefault(5,0) >= 3){
-                    map.put(5, map.get(5) - 3);
+                if(five == 0){
+                    return false;
+                }
+                five--;
+                ten++;
+            }else{
+                if(ten > 0 && five > 0){
+                    ten--;
+                    five--;
+                }else if(five >= 3){
+                    five = five - 3;
                 }else{
                     return false;
                 }
