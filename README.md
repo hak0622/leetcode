@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/hak0622/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/hak0622/leetcode/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/hak0622/leetcode/tree/master/1002-find-common-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/hak0622/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/hak0622/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1572-matrix-diagonal-sum](https://github.com/hak0622/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/hak0622/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hak0622/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hak0622/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/hak0622/leetcode/tree/master/0441-arranging-coins) |
+| [1004-max-consecutive-ones-iii](https://github.com/hak0622/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Newton's Method
 |  |
 | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/hak0622/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/hak0622/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/hak0622/leetcode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/hak0622/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/hak0622/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/hak0622/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/hak0622/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/hak0622/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hak0622/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting Sort
 |  |
