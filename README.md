@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/hak0622/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/hak0622/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/hak0622/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/hak0622/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/hak0622/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/hak0622/leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/hak0622/leetcode/tree/master/0766-toeplitz-matrix) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hak0622/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hak0622/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/hak0622/leetcode/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/hak0622/leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/hak0622/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Newton's Method
 |  |
