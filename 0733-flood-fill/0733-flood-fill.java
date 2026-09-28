@@ -6,17 +6,18 @@ class Solution {
         int n = image.length;
         int m = image[0].length;
 
-        int original = image[sr][sc];
+        int startColor = image[sr][sc];
 
-        if(original == color) return image;
+        if(startColor == color) return image;
 
         Queue<int[]>q = new LinkedList<>();
-
         q.add(new int[]{sr,sc});
+
         image[sr][sc] = color;
 
         while(!q.isEmpty()){
             int[]cur = q.poll();
+
             int x = cur[0];
             int y = cur[1];
 
@@ -24,12 +25,13 @@ class Solution {
                 int nx = x + dx[d];
                 int ny = y + dy[d];
 
-                if(nx >= 0 && nx < n && ny >= 0 && ny < m && image[nx][ny] == original){
+                if(nx >= 0 && nx < n && ny >= 0 && ny < m && image[nx][ny] == startColor){
                     image[nx][ny] = color;
                     q.add(new int[]{nx,ny});
                 }
             }
         }
+
         return image;
     }
 }
