@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hak0622/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hak0622/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/hak0622/leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/hak0622/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/hak0622/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/hak0622/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hak0622/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -259,12 +260,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hak0622/leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/hak0622/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/hak0622/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hak0622/leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hak0622/leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/hak0622/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/hak0622/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hak0622/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/hak0622/leetcode/tree/master/0994-rotting-oranges) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hak0622/leetcode/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/hak0622/leetcode/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/hak0622/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/hak0622/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hak0622/leetcode/tree/master/0733-flood-fill) |
@@ -436,5 +440,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/hak0622/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/hak0622/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
