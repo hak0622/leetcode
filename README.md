@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/hak0622/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/hak0622/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/hak0622/leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/hak0622/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/hak0622/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/hak0622/leetcode/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/hak0622/leetcode/tree/master/0832-flipping-an-image) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/hak0622/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/hak0622/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/hak0622/leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/hak0622/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
