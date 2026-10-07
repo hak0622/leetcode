@@ -259,10 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hak0622/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/hak0622/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hak0622/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/hak0622/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/hak0622/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/hak0622/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hak0622/leetcode/tree/master/0733-flood-fill) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hak0622/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/hak0622/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/hak0622/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/hak0622/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hak0622/leetcode/tree/master/0733-flood-fill) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hak0622/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/hak0622/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
