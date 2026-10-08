@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/hak0622/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hak0622/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/hak0622/leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/hak0622/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hak0622/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hak0622/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/hak0622/leetcode/tree/master/0056-merge-intervals) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/hak0622/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hak0622/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hak0622/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/hak0622/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/hak0622/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/hak0622/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/hak0622/leetcode/tree/master/0125-valid-palindrome) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hak0622/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/hak0622/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/hak0622/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/hak0622/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hak0622/leetcode/tree/master/0088-merge-sorted-array) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hak0622/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hak0622/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/hak0622/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/hak0622/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/hak0622/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/hak0622/leetcode/tree/master/0205-isomorphic-strings) |
