@@ -1,6 +1,5 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        StringBuilder sb = new StringBuilder();
         int left = 0;
         int right = s.length()-1;
 
@@ -23,6 +22,7 @@ class Solution {
             left++;
             right--;
         }
+
         return true;
     }
 }
