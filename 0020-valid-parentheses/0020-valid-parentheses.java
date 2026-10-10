@@ -4,17 +4,20 @@ class Solution {
 
         for(int i=0; i<s.length(); i++){
             char c = s.charAt(i);
-            
+            if(c == '(' || c == '{' || c == '['){
+                st.push(c);
+                continue;
+            }
             if(st.isEmpty() && (c == ')' || c == '}' || c == ']')) return false;
-            
-            if(c == ')'  && st.peek() == '('){
+
+            if(st.peek() == '(' && c == ')'){
                 st.pop();
-            }else if(c == '}'  && st.peek() == '{'){
+            }else if(st.peek() == '{' && c == '}'){
                 st.pop();
-            }else if(c == ']'  && st.peek() == '['){
+            }else if(st.peek() == '[' && c == ']'){
                 st.pop();
             }else{
-                st.push(c);
+                return false;
             }
         }
         return st.isEmpty();
