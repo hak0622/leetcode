@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/hak0622/leetcode/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/hak0622/leetcode/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/hak0622/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/hak0622/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/hak0622/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1572-matrix-diagonal-sum](https://github.com/hak0622/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/hak0622/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/hak0622/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hak0622/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/hak0622/leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/hak0622/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/hak0622/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/hak0622/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/hak0622/leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/hak0622/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/hak0622/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/hak0622/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Trie
