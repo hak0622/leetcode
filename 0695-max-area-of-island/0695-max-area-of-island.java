@@ -1,26 +1,25 @@
 class Solution {
     int[]dx = {-1,1,0,0};
     int[]dy = {0,0,-1,1};
-    boolean[][]visited;
 
     public int maxAreaOfIsland(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
 
-        visited = new boolean[m][n];
+        int answer = 0;
 
-        int maxArea = 0;
-        
+        boolean[][]visited = new boolean[m][n];
+        Queue<int[]>q = new LinkedList<>();
+
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){
                 if(grid[i][j] == 1 && !visited[i][j]){
-                    Queue<int[]>q = new LinkedList<>();
-                    q.add(new int[]{i,j});
                     visited[i][j] = true;
-
-                    int area = 1;
+                    q.add(new int[]{i,j});
+                    int count = 0;
 
                     while(!q.isEmpty()){
+                        
                         int[]cur = q.poll();
 
                         int x = cur[0];
@@ -30,17 +29,17 @@ class Solution {
                             int nx = x + dx[d];
                             int ny = y + dy[d];
 
-                            if(nx >= 0 && nx < m && ny >= 0 && ny < n && !visited[nx][ny] &&grid[nx][ny] == 1){
+                            if(nx >= 0 && nx < m && ny >= 0 && ny < n && !visited[nx][ny] && grid[nx][ny] == 1){
                                 visited[nx][ny] = true;
                                 q.add(new int[]{nx,ny});
-                                area++;
                             }
-                        }
+                        }    
+                        count++;                    
                     }
-                    maxArea = Math.max(maxArea,area);
+                    answer = Math.max(answer,count);
                 }
             }
         }
-        return maxArea;
+        return answer;
     }
 }
