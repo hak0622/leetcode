@@ -1,22 +1,22 @@
 class Solution {
     int[]dx = {-1,1,0,0};
     int[]dy = {0,0,-1,1};
-    boolean[][]visited;
 
     public int numIslands(char[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
-        visited = new boolean[m][n];
-        int answer = 0;
 
+        boolean[][]visited = new boolean[m][n];
+        Queue<int[]>q = new LinkedList<>();
+
+        int answer = 0;
+        
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){
                 if(grid[i][j] == '1' && !visited[i][j]){
-                    Queue<int[]> q = new LinkedList<>();
-                    q.add(new int[]{i,j});
                     visited[i][j] = true;
-                    answer++;
-
+                    q.add(new int[]{i,j});
+                    
                     while(!q.isEmpty()){
                         int[]cur = q.poll();
 
@@ -33,6 +33,7 @@ class Solution {
                             }
                         }
                     }
+                    answer++;
                 }
             }
         }
