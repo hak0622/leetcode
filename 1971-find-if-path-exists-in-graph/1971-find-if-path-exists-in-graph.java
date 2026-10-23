@@ -9,10 +9,13 @@ class Solution {
         }
 
         for(int i=0; i<edges.length; i++){
-            union(edges[i][0], edges[i][1]);
+            int a = edges[i][0];
+            int b = edges[i][1];
+
+            union(a,b);
         }
 
-        return checkSame(source, destination);
+        return find(source) == find(destination);
     }
 
     public void union(int a, int b){
@@ -26,14 +29,5 @@ class Solution {
         if(a == parent[a]) return a;
 
         return parent[a] = find(parent[a]);
-    }
-
-    public boolean checkSame(int a, int b){
-        a = find(a);
-        b = find(b);
-
-        if(a == b) return true;
-
-        return false;
     }
 }
